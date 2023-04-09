@@ -2,7 +2,7 @@
 
 ### run instructions
 
-* `git clone https://github.com/sbfrusho/django_assignment.git`
+* `git clone https://github.com/NUSRAT345/assignment_django_api.git`
 * `cd django_rest_api_assignment`
 * `python -m pip install -r requirements.txt`
 * `python manage.py runserver`
